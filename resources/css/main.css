@@ -1,3 +1,17 @@
 body {
     text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-image: url("../images/the-flatiron-building.png");
+}
+
+.middle {
+    background-image: url("../images/the-flatiron-building.png");
+}
+
+footer {
+    background-color: dimgray;
+    text-align: right;
 }
